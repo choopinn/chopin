@@ -1,6 +1,6 @@
 GitHub 仓库：
 
-完整实现已部署在 GitHub：https://github.com/choopinn/Admin-Dashboard
+完整实现已部署在 GitHub：https://github.com/choopinn/chopin
 
 包含详细文档和安装说明
 
